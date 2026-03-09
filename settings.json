@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Dripixi.aternos.me:53789",
+    "port": 53789,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        
         "I like to play Minecraft!"
       ]
     },
